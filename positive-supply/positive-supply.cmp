@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sun 09 Jul 2017 01:35:18 PM CDT
+
+BeginCmp
+TimeStamp = /59626F73;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = ELCAP_10_20_V_059A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5962705D;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = CERCAP_15_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5962709F;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = ELCAP_10_20_V_059A;
+EndCmp
+
+BeginCmp
+TimeStamp = /596270A5;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = CERCAP_15_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /59626D7D;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK_21x55;
+EndCmp
+
+BeginCmp
+TimeStamp = /59626DA5;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = DIODE_1A_069A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5962712F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_3MM_069A;
+EndCmp
+
+BeginCmp
+TimeStamp = /59626D8C;
+Reference = P1;
+ValeurCmp = CONN_2X1;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /59626F39;
+Reference = P2;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /59626F48;
+Reference = P3;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /596271AF;
+Reference = P4;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /596271B5;
+Reference = P5;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /59627215;
+Reference = P6;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5962721B;
+Reference = P7;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /59627594;
+Reference = P8;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /596275BE;
+Reference = P9;
+ValeurCmp = CONN_1X1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5962713E;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /59626D5F;
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = TO-220_V_069A;
+EndCmp
+
+EndListe
